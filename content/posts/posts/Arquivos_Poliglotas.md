@@ -1,6 +1,6 @@
 ---
 title: "Arquivos possuem RG?"
-date: 2023-12-18T04:10:42Z
+date: 2024-10-24T04:10:42Z
 tags: ["Malware",".PDF","Engenheria_Reversa"]
 draft: false
 ---
