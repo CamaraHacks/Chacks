@@ -45,12 +45,5 @@ E se a gente conseguisse alterar um magic byte em um disassembler? Ou melhor, ch
 
 
 
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
----
-
-Espero que isso te ajude a criar um README.md incrível para o seu projeto! Se tiver mais alguma dúvida ou precisar de mais informações, estou à disposição. 🚀
 
 

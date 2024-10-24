@@ -101,7 +101,7 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "C Hacks"
   name = "Gustavo Camara"
-  description = "Um arsenal cibernético, o seu ammu-nation do cyberwarfare."
+  description = "Malwares, gambiarras e traquinagens."
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
